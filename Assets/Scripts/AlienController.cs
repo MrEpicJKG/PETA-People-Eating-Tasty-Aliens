@@ -7,6 +7,8 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class AlienController : MonoBehaviour
 {
+	
+
 	#region Serialized Private Vars
 	[Header("Speeds")]
 	[SerializeField] private float walkSpeed = 2f;
@@ -22,7 +24,6 @@ public class AlienController : MonoBehaviour
 	[SerializeField] private float idleFrameDelaySecs = 0.4f;
 	[SerializeField] private float walkFrameDelaySecs = 0.18f;
 	[SerializeField] private float runFrameDelaySecs = 0.12f;
-	[SerializeField] private Actions currentAction = Actions.Walking;
 	[SerializeField] private AlienType alienType = AlienType.Green;
 
 	#endregion
@@ -30,6 +31,8 @@ public class AlienController : MonoBehaviour
 	#region Hidden Public Vars
 	[HideInInspector] public enum Actions { Idle, Walking, Fleeing };
 	[HideInInspector] public enum AlienType { Green, Blue, Red }
+
+	[HideInInspector] public Actions currentAction = Actions.Walking;
 	#endregion
 
 	#region Private Vars

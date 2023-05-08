@@ -18715,7 +18715,8 @@ MonoBehaviour:
   gameState: 3
   levelDurationSecs: 60
   currentLevel: 1
-  persistObjectPrefab: {fileID: 0}
+  persistObjectPrefab: {fileID: 5569780605906741422, guid: 3dea016f2950af342adeef811a231b8f,
+    type: 3}
   greenAlienValue: 2
   blueAlienValue: 6
   redAlienValue: 10
@@ -20989,7 +20990,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1737367738
 RectTransform:
   m_ObjectHideFlags: 0
