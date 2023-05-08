@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 6a71f5240fcd26f4bae8d4f96b21ddbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7937738286575661974
+    second: PlasmaTurret_0
+  - first:
+      213: -4366828375852283930
+    second: PlasmaTurret_1
+  - first:
+      213: -7977199981736887916
+    second: PlasmaTurret_2
+  - first:
+      213: -7991599613930981090
+    second: PlasmaTurret_3
+  - first:
+      213: 1498915538521866546
+    second: PlasmaTurret_4
+  - first:
+      213: 4927955353286957942
+    second: PlasmaTurret_5
+  - first:
+      213: -212010000469265949
+    second: PlasmaTurret_6
+  - first:
+      213: 7079609856702787510
+    second: PlasmaTurret_7
+  - first:
+      213: -741141738753573910
+    second: PlasmaTurret_8
+  - first:
+      213: 5648428115645200935
+    second: PlasmaTurret_9
+  - first:
+      213: 2790754573303743005
+    second: PlasmaTurret_10
+  - first:
+      213: 4016383740534974196
+    second: PlasmaTurret_11
+  - first:
+      213: -3059026785987346513
+    second: PlasmaTurret_12
+  - first:
+      213: -7712200669325642572
+    second: PlasmaTurret_13
+  - first:
+      213: 4146440719412505618
+    second: PlasmaTurret_14
+  - first:
+      213: -8450933129796923522
+    second: PlasmaTurret_15
+  - first:
+      213: -4255368006455159751
+    second: PlasmaTurret_16
+  - first:
+      213: -779702019231159144
+    second: PlasmaTurret_17
+  - first:
+      213: -2747437857133279525
+    second: PlasmaTurret_18
+  - first:
+      213: -1342979597670618132
+    second: PlasmaTurret_19
+  - first:
+      213: 408542058365519492
+    second: PlasmaTurret_20
+  - first:
+      213: 4709539517574745143
+    second: PlasmaTurret_21
+  - first:
+      213: 2145832306846106233
+    second: PlasmaTurret_22
+  - first:
+      213: 5308525023794853274
+    second: PlasmaTurret_23
+  - first:
+      213: 650289510481562173
+    second: PlasmaTurret_24
+  - first:
+      213: 8896730494968327879
+    second: PlasmaTurret_25
+  - first:
+      213: 6077058772293257532
+    second: PlasmaTurret_26
+  - first:
+      213: 1616501715158141609
+    second: PlasmaTurret_27
+  - first:
+      213: 5622397615573563434
+    second: PlasmaTurret_28
+  - first:
+      213: -390862570087191238
+    second: PlasmaTurret_29
+  - first:
+      213: -1962719286120544813
+    second: PlasmaTurret_30
+  - first:
+      213: 3458560535859250364
+    second: PlasmaTurret_31
+  - first:
+      213: -8271390018738267655
+    second: PlasmaTurret_32
+  - first:
+      213: -1182127461200035967
+    second: PlasmaTurret_33
+  - first:
+      213: 1428369162722437717
+    second: PlasmaTurret_34
+  - first:
+      213: 3123941323709105092
+    second: PlasmaTurret_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlasmaTurret_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 194
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933c5b6ae2882e60800000000000000
+      internalID: 7937738286575661974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 193
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e78a368ab8e563c0800000000000000
+      internalID: -4366828375852283930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 187
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19be701e72281190800000000000000
+      internalID: -7991599613930981090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 181
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231c8ed9db73dc410800000000000000
+      internalID: 1498915538521866546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 169
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b57adc84d936440800000000000000
+      internalID: 4927955353286957942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 171
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1f231270ace0df0800000000000000
+      internalID: -212010000469265949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_7
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 166
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfaf11c7a3df3260800000000000000
+      internalID: 7079609856702787510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 174
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebb06de38fe6b5f0800000000000000
+      internalID: -741141738753573910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ed387bbf0db730800000000000000
+      internalID: 4016383740534974196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 12
+        width: 151
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb1d678572c85d0800000000000000
+      internalID: -3059026785987346513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 12
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b05c2a52c8f490800000000000000
+      internalID: -7712200669325642572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 34
+        width: 157
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebee3cdb27cc5de0800000000000000
+      internalID: -1342979597670618132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 34
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4860fa866de6ba500800000000000000
+      internalID: 408542058365519492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 79
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c05b03d35ab5140800000000000000
+      internalID: 4709539517574745143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlasmaTurret_23
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 31
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957094226baba940800000000000000
+      internalID: 5308525023794853274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
